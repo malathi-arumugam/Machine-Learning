@@ -1,9 +1,6 @@
 # Machine-Learning.
+Artificial Intelligence is making a huge impact nowadays in almost all the applications. It is all about instructing a machine to perceive an object like a human. Making the machine to excel at this perception requires training it by feeding large number of examples. In this way machine learning algorithms find many applications for real time problems. In the last five years, Deep Learning techniques have transfigured the field of machine learning, data mining and big data analytics. This research is to investigate the presence of anomalies in given data. This model can be used as a prototype and can be applied in domains like finding abnormalities in medical tests, to segregate fraud applications in banking, insurance records, to monitor IT infrastructure, observing energy consumption and vehicle tracking. The concepts of supervised learning and unsupervised learning are used with the help of machine learning algorithms and deep neural networks. Even though machine learning algorithms are effective for classification problems, the data in question, determines the efficiency of these algorithms.The traditional machine learning algorithms fail when the data is highly imbalanced and necessitate the use of deep neural networks. One such neural network called deep Autoencoder, is used to detect anomalies present in a large data set which is largely biased. The results derived out of this study, proved to be very accurate.
 
 
 
 
-
-Explore the data with machine learning algorithms in jupyter notebook in this file kdcc-algo_comparison.ipynb
-Explore the data  with anomaly function in the file KDCCcup in R
-Analyze the data with h2o deep learning library in R
